@@ -45,8 +45,8 @@ WHERE column1 = value1
 OVER:指定窗口函数（如 ROW_NUMBER, SUM, AVG 等）的计算范围
 
 <window function> OVER (
-    PARTITION BY partition_expression, ...
-    ORDER BY sort_expression [ASC|DESC], ...
+    PARTITION BY partition_expression, ...		--按什么分类
+    ORDER BY sort_expression [ASC|DESC], ...	--按什么排序
 )
 ```
 
