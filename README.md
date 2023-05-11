@@ -91,5 +91,5 @@ SELECT staff_name, monthtime, SUM(amount) OVER (PARTITION BY staff_name ORDER BY
 FROM sales;
 ```
 
-<img src="C:\Users\dell\AppData\Local\Temp\企业微信截图_1683770069269.png" alt="img" style="zoom: 67%;" />
 
+![企业微信截图_16837735081095](https://github.com/Kerchhhhh/sql_learning/assets/64466119/f0ee7bcf-d354-4917-9568-fd81ee74e068)
