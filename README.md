@@ -79,7 +79,7 @@ NVL(expression, default_value)：控制替换
 ##### 提取数据
 
 ```sql
-SUBSTR(string, start_position, [length])：
+SUBSTR(string, start_position, [length])：截取特定位置的数据
 ```
 
 ##### 排序处理
