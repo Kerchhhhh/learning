@@ -100,5 +100,6 @@
 2. 点击应用
 
 ![企业微信截图_16837889502692](https://github.com/Kerchhhhh/About_xiumi/assets/64466119/53e83322-f8f2-4e2b-9db1-427a61a8b515)
+
 ![image](https://github.com/Kerchhhhh/About_xiumi/assets/64466119/eabced26-8405-47a2-acbf-7d9cf5260cbd)
 
