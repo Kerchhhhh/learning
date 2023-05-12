@@ -90,6 +90,6 @@ SUBSTR(string, start_position, [length])：截取特定位置的数据
 SELECT staff_name, monthtime, SUM(amount) OVER (PARTITION BY staff_name ORDER BY monthtime) as sales_total 
 FROM sales;
 ```
-
+<img src="(https://github.com/Kerchhhhh/sql_learning/assets/64466119/f0ee7bcf-d354-4917-9568-fd81ee74e068)" width="60%">
 
 ![企业微信截图_16837735081095](https://github.com/Kerchhhhh/sql_learning/assets/64466119/f0ee7bcf-d354-4917-9568-fd81ee74e068)
